@@ -49,6 +49,10 @@
     <priority>0.82</priority>
   </url>
   <url>
+    <loc>https://cataphractvisuals.com/gallery?category=medieval</loc>
+    <priority>0.82</priority>
+  </url>
+  <url>
     <loc>https://cataphractvisuals.com/gallery?category=Ancient%20Greece</loc>
     <priority>0.82</priority>
   </url>
@@ -58,6 +62,10 @@
   </url>
   <url>
     <loc>https://cataphractvisuals.com/gallery?category=animals</loc>
+    <priority>0.82</priority>
+  </url>
+  <url>
+    <loc>https://cataphractvisuals.com/gallery?category=mountains</loc>
     <priority>0.82</priority>
   </url>
   <url>
