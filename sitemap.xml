@@ -5,75 +5,75 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/gallery</loc>
+    <loc>https://cataphractvisuals.com/gallery/</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/collections</loc>
+    <loc>https://cataphractvisuals.com/collections/</loc>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/poetry</loc>
+    <loc>https://cataphractvisuals.com/poetry/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/about</loc>
+    <loc>https://cataphractvisuals.com/about/</loc>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/equipment</loc>
+    <loc>https://cataphractvisuals.com/equipment/</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/phone-shots</loc>
+    <loc>https://cataphractvisuals.com/phone-shots/</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/contact</loc>
+    <loc>https://cataphractvisuals.com/contact/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/rights</loc>
+    <loc>https://cataphractvisuals.com/rights/</loc>
     <priority>0.45</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/privacy</loc>
+    <loc>https://cataphractvisuals.com/privacy/</loc>
     <priority>0.35</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/gallery?category=sea</loc>
+    <loc>https://cataphractvisuals.com/gallery/sea/</loc>
     <priority>0.82</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/gallery?category=urban</loc>
+    <loc>https://cataphractvisuals.com/gallery/urban/</loc>
     <priority>0.82</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/gallery?category=medieval</loc>
+    <loc>https://cataphractvisuals.com/gallery/medieval/</loc>
     <priority>0.82</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/gallery?category=Ancient%20Greece</loc>
+    <loc>https://cataphractvisuals.com/gallery/ancient-greece/</loc>
     <priority>0.82</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/gallery?category=flowers</loc>
+    <loc>https://cataphractvisuals.com/gallery/flowers/</loc>
     <priority>0.82</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/gallery?category=animals</loc>
+    <loc>https://cataphractvisuals.com/gallery/animals/</loc>
     <priority>0.82</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/gallery?category=mountains</loc>
+    <loc>https://cataphractvisuals.com/gallery/mountains/</loc>
     <priority>0.82</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/gallery?category=memory</loc>
+    <loc>https://cataphractvisuals.com/gallery/memory/</loc>
     <priority>0.82</priority>
   </url>
   <url>
-    <loc>https://cataphractvisuals.com/gallery?category=faith</loc>
+    <loc>https://cataphractvisuals.com/gallery/faith/</loc>
     <priority>0.82</priority>
   </url>
 </urlset>
